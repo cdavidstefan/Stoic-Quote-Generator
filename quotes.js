@@ -39,4 +39,8 @@ const localQuotes = [
     text: 'They say the true hell is when the person you are meets the person you could have been.',
     author: null,
   },
+  {
+    text: 'Nu fenomenele naturii chinuiesc pe oameni, ci parerile oamenilor despre ele.',
+    author: 'Epictet, Manualul, 5',
+  }
 ];
