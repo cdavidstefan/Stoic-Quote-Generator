@@ -42,9 +42,9 @@ const localQuotes = [
   {
     text: 'Nu fenomenele naturii chinuiesc pe oameni, ci parerile oamenilor despre ele.',
     author: 'Epictet, Manualul, 5',
-  }
+  },
   {
-    text: 'Mai întâi, hotărăște-te ce fel de presoană vrei să fii, apoi fă ceea ce trebuie. Fiindcă în aproape fiecare îndeletnicire am văzut că așa funcționează lucrurile. Cei care au îndeletniciri atletice își aleg mai întâi sportul pe care și-l doresc, apoi fac asta',
+    text: 'Mai întâi, hotărăște-te ce fel de presoană vrei să fii, apoi fă ceea ce trebuie. Fiindcă în aproape fiecare îndeletnicire am văzut că așa funcționează lucrurile. Cei care au îndeletniciri atletice își aleg mai întâi sportul pe care și-l doresc, apoi fac asta.',
     author: 'Epictet, Diatribe, 3.23.1-2a',
   }
 ];
