@@ -46,5 +46,9 @@ const localQuotes = [
   {
     text: 'Mai întâi, hotărăște-te ce fel de presoană vrei să fii, apoi fă ceea ce trebuie. Fiindcă în aproape fiecare îndeletnicire am văzut că așa funcționează lucrurile. Cei care au îndeletniciri atletice își aleg mai întâi sportul pe care și-l doresc, apoi fac asta.',
     author: 'Epictet, Diatribe, 3.23.1-2a',
+  },
+  {
+    text: 'O muncă pe potriva minții este exercițiul alegerii, refuzului, năzuinței, respingerii, pregătirii, țelului și acceptării. Așadar, ce poate pângări și împiedica funcționarea corectă a minții? Nimic altceva decât propriile ei decizii viciate!',
+    author: 'Epictet, Diatribe, 4.11.6-7',
   }
 ];
