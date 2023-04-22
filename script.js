@@ -2,6 +2,8 @@ const quoteContainer = document.getElementById('quote-container');
 const quoteText = document.getElementById('quote');
 const authorText = document.getElementById('author');
 const twitterBtn = document.getElementById('twitter');
+const instaBtn = document.getElementById('instagram');
+const facebookBtn = document.getElementById('facebook');
 const newQuoteBtn = document.getElementById('new-quote');
 const loader = document.getElementById('loader');
 
@@ -63,9 +65,21 @@ function tweetQuote() {
     window.open(twitterUrl, '_blank');
 }
 
+function instaShare() {
+    // const instaUrl = ` instagram intent? api? here! `;
+    window.open(facebookUrl, '_blank');
+}
+
+function facebookShare() {
+    // const facebookUrl = ` facebook intent? api? here! `;
+    window.open(facebookUrl, '_blank');
+}
+
 // Event Listener
 newQuoteBtn.addEventListener('click', newQuote);
 twitterBtn.addEventListener('click', tweetQuote);
+instaBtn.addEventListener('click', instaShare);
+facebookBtn.addEventListener('click', facebookShare);
 
 
 

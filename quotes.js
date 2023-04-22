@@ -50,5 +50,13 @@ const localQuotes = [
   {
     text: 'O muncă pe potriva minții este exercițiul alegerii, refuzului, năzuinței, respingerii, pregătirii, țelului și acceptării. Așadar, ce poate pângări și împiedica funcționarea corectă a minții? Nimic altceva decât propriile ei decizii viciate!',
     author: 'Epictet, Diatribe, 4.11.6-7',
+  },
+  {
+    text: 'Adeseori, săvârșește o nedreptate și cel care nu îndeplinește un anumit lucru, nu numai cel care face ceva.',
+    author: 'Marc Aureliu, Către Sine, 9.5',
+  },
+  {
+    text: 'Toate principiile pe care le desfășoară stoicii, pe care le practică dinaintea unei mulțimi ce îi ascultă, sunt ale altora: ale lui Platon, Zenon, Chirisip, Posidonius și ale unei cete bogate de filosofi de seamă. Iată în ce fel pot demonstra că aceste principii sunt ale lor: să făptuiască ce au spus.',
+    author: 'Seneca, Epistole către Lucilius, 108.35;38',
   }
 ];
